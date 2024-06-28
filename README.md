@@ -1,3 +1,6 @@
+## conda 环境
+**选择ptv3**
+
 ## run service
 ```sh
 # 开启redis
